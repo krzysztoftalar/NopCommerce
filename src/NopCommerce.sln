@@ -61,7 +61,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Widgets.AccessiB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Payments.PayPalCommerce", "Plugins\Nop.Plugin.Payments.PayPalCommerce\Nop.Plugin.Payments.PayPalCommerce.csproj", "{2FB1BE79-084E-4381-A913-74E18F174D64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.NaturalSearch", "Plugins\Nop.Plugin.NaturalSearch\Nop.Plugin.NaturalSearch.csproj", "{0BD90F03-AABB-481C-8536-9A308FDBE102}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Widgets.NaturalSearch", "Plugins\Nop.Plugin.Widgets.NaturalSearch\Nop.Plugin.Widgets.NaturalSearch.csproj", "{0BD90F03-AABB-481C-8536-9A308FDBE102}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,11 +1,11 @@
 ﻿{
-  "Group": "Natural search",
+  "Group": "Widgets",
   "FriendlyName": "Natural search",
-  "SystemName": "Payments.Manual",
+  "SystemName": "iteo.Widgets.NaturalSearch",
   "Version": "1.0",
   "SupportedVersions": [ "4.40" ],
-  "Author": "iteo",
+  "Author": "iteo sp. z o.o.",
   "DisplayOrder": 1,
-  "FileName": "Nop.Plugin.NaturalSearch.dll",
+  "FileName": "Nop.Plugin.Widgets.NaturalSearch.dll",
   "Description": "This plugin enables natural search"
 }
